@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/audioevents.iml" filepath="$PROJECT_DIR$/audioevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/audioevents_android.iml" filepath="$PROJECT_DIR$/android/audioevents_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/audioevents_example_android.iml" filepath="$PROJECT_DIR$/example/android/audioevents_example_android.iml" />
+    </modules>
+  </component>
+</project>
